@@ -1,4 +1,4 @@
-name := "hackerRank"
+name := "HackerRank"
 
 version := "1.0"
 
